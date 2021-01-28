@@ -1,4 +1,4 @@
-# WIX Entry Exam - Category Trees
+# Category Trees
 
 This site have the ability to create, load and save category trees, which can be with inifinte depth.
 In addition, each file or folder can be expand/collapse by clicking.
