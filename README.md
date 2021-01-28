@@ -6,17 +6,11 @@ Furthermore, have context menu when click on right click,
 for options like: add, delete or rename.
 
 ## main packages used:
-contain packages from python:
-* sklearn
-* pandas
-* numpy
-* math
-* random
-* matplotlib
-* re
-* requests
-* beautifulsoup4
-* scikit_learn
+* create-react-app
+* react.js
+* material-ui
+* express.js (backend)
+
 
 ## Getting Started
 
