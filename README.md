@@ -20,8 +20,8 @@ this site use local server, in port 3232. in case u want change the port:
 * also change in src/server.js the parameter 'PORT'
 
 after that, lets getting started:
-1. run: 'npm start' from shell in project path.
-2. run: 'node src/server.js' in project path.
+1. join path: 'my-app/src/', and then run the command: 'npm start' from shell in project path.
+2. join path: 'backend/', and then run the command: 'node server.js' in project path.
 
 and last thing of course: 
 Have Fun !! :)
